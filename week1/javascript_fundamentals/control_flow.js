@@ -40,3 +40,32 @@ switch (day) {
     console.log("Its Friday");
     break;
 }
+
+
+// For, while, do-while loops
+
+// for loops
+// initialization, condition, iteration
+// flexible on how to iterate through
+for( let i = 0; i < 5; i++ ) {
+    console.log(i);
+}
+
+// while loop
+// repeat a loop for as long as a condition evaluates to true
+// while(condition){... code to be executed}
+
+// do while loop
+// do while loops will always do the code once, even if the condition is flase, unlike while loop
+
+// loop control statements
+// break and continue
+// break terminates the loop prematurely and is usually based on a some condition
+// continue will skip the rest of the current iteration and continue with the next one
+
+for (let i = 0; i < 5; i++) {
+    if (i==2){
+        continue;
+    }
+    console.log(i);
+}
