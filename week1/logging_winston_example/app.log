@@ -1,0 +1,29 @@
+2024-02-15T16:35:37.535Z [info]: This is an info message
+2024-02-15T16:35:37.537Z [error]: This is an error message
+2024-02-15T16:35:37.537Z [warn]: This is an warning message
+2024-02-15T16:37:26.572Z [info]: This is an info message
+2024-02-15T16:37:26.574Z [error]: This is an error message
+2024-02-15T16:37:26.574Z [warn]: This is an warning message
+2024-02-15T16:37:26.575Z [error]: An error occured This is an error!
+2024-02-15T16:39:23.225Z [info]: This is an info message
+2024-02-15T16:39:23.227Z [error]: This is an error message
+2024-02-15T16:39:23.228Z [warn]: This is an warning message
+2024-02-15T16:39:23.228Z [error]: An error occured This is an error!
+2024-02-15T16:43:02.112Z [info]: This is an info message
+2024-02-15T16:43:02.114Z [error]: This is an error message
+2024-02-15T16:43:02.114Z [warn]: This is an warning message
+2024-02-15T16:43:02.114Z [error]: An error occured: Error: This is an error!
+2024-02-15T16:43:22.616Z [info]: This is an info message
+2024-02-15T16:43:22.617Z [error]: This is an error message
+2024-02-15T16:43:22.618Z [warn]: This is an warning message
+2024-02-15T16:43:22.618Z [error]: An error occured: Error: This is an error!
+
+
+2024-02-15T16:46:22.075Z [info]: This is an info message
+2024-02-15T16:46:22.080Z [error]: This is an error message
+2024-02-15T16:46:22.080Z [warn]: This is an warning message
+2024-02-15T16:46:22.080Z [error]: An error occured: Error: This is an error!
+
+
+2024-02-15T16:46:22.080Z [error]: Uncaught Exception Error: Wild Uncaught Error!
+
