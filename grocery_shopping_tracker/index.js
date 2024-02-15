@@ -46,13 +46,13 @@ async function App() {
               try {
                 let userInput = parseInt(input, 10);
                 if (userInput < 1 || userInput > userList.length) {
-                  console.log("Item doesnt exist");
+                  console.log("\nItem doesnt exist\n");
                 }
                 userList[userInput - 1].bought = true;
 
                 App();
               } catch {
-                console.log("Invalid input");
+                console.log("\nInvalid input\n");
                 App();
               }
             }
@@ -66,7 +66,7 @@ async function App() {
               try {
                 let userInput = parseInt(input, 10);
                 if (userInput < 1 || userInput > userList.length) {
-                  console.log("Item doesnt exist");
+                  console.log("\nItem doesnt exist\n");
                 }
                 console.log(
                   `\nItem deleted: ${userList[userInput - 1].name}\n`
@@ -96,11 +96,10 @@ async function App() {
 function viewList(list) {
   console.log("\nGrocery List:\n");
   if (list.length === 0) {
-    return console.log("List is empty.");
+    return console.log("\nList is empty.\n");
   }
   for (let i = 0; i < list.length; i++) {
-    console.log(`
-        Item #${i + 1}
+    console.log(`Item #${i + 1}
         name: ${list[i].name}
         quantity: ${list[i].quantity}
         price: $${list[i].price}
