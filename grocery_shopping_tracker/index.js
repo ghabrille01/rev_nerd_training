@@ -75,7 +75,7 @@ async function App() {
 
                 App();
               } catch {
-                console.log("Invalid input");
+                console.log("\nInvalid input\n");
                 App();
               }
             }
@@ -85,7 +85,7 @@ async function App() {
           rl.close();
           break;
         default:
-          console.log("Invalid Input");
+          console.log("\nInvalid Input\n");
           App();
           break;
       }
