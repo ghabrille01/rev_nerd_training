@@ -1,7 +1,7 @@
-const http = require("http");
+import http from "http";
 const PORT = 3000;
 
-const { createLogger, transports, format } = require("winston");
+import { createLogger, transports, format } from "winston";
 
 // create logger instance
 const logger = createLogger({

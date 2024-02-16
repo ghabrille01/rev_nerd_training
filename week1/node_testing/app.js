@@ -1,0 +1,1 @@
+// npm install --save-dev jest        // make sure to save in dev
