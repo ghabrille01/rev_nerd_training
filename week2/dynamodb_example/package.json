@@ -1,5 +1,5 @@
 {
-  "name": "basic_api",
+  "name": "dynamodb_example",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -7,6 +7,7 @@
     "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Ghabrille A",
+  "keywords": [],
+  "author": "",
   "license": "ISC"
 }

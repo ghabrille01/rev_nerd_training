@@ -1,0 +1,2 @@
+2024-02-20T17:57:08.978Z [error]: Uncaught Exception: ReferenceError: data is not defined
+2024-02-20T19:42:57.678Z [error]: Uncaught Exception: RangeError: Maximum call stack size exceeded
