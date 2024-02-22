@@ -1,0 +1,39 @@
+2024-02-21T17:46:18.367Z [info]: Incoming GET : /shoppinglist
+2024-02-21T17:46:55.314Z [info]: Incoming GET : /shoppinglist
+2024-02-21T17:46:55.732Z [error]: Uncaught Exception: TypeError: logger.error is not a function
+2024-02-21T17:49:17.500Z [info]: Incoming GET : /shoppinglist
+2024-02-21T17:49:17.995Z [error]: Uncaught Exception: TypeError: logger.error is not a function
+2024-02-21T17:49:53.846Z [info]: Incoming GET : /shoppinglist
+2024-02-21T17:51:07.392Z [info]: Incoming GET : /shoppinglist
+2024-02-21T17:51:07.738Z [error]: Requested resource not found
+2024-02-21T17:52:18.222Z [info]: Incoming GET : /shoppinglist
+2024-02-21T17:52:18.559Z [error]: Requested resource not found
+2024-02-21T17:53:17.776Z [info]: Incoming GET : /shoppinglist
+2024-02-21T17:53:18.019Z [error]: Uncaught Exception: TypeError: res.status is not a function
+2024-02-21T17:54:28.306Z [info]: Incoming GET : /shoppinglist
+2024-02-21T18:51:59.663Z [info]: Incoming POST : /shoppinglist
+2024-02-21T18:57:00.179Z [info]: Incoming POST : /shoppinglist
+2024-02-21T18:58:16.469Z [info]: Incoming GET : /shoppinglist?name=postman%20Item%202
+2024-02-21T18:58:57.005Z [info]: Incoming GET : /shoppinglist/?name=postman%20Item%202
+2024-02-21T18:59:43.431Z [info]: Incoming GET : /shoppinglist/?name=postman%20Item%202
+2024-02-21T18:59:43.712Z [error]: Uncaught Exception: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+2024-02-21T19:07:21.710Z [info]: Incoming PUT : /shoppinglist/?item_id=3f14f57f-8192-4eee-932b-9f866b2d4506
+2024-02-21T19:09:35.446Z [info]: Incoming PUT : /shoppinglist/?item_id=3f14f57f-8192-4eee-932b-9f866b2d4506
+2024-02-21T19:10:58.263Z [info]: Incoming PUT : /shoppinglist/?item_id=3f14f57f-8192-4eee-932b-9f866b2d4506
+2024-02-21T19:11:09.955Z [info]: Incoming PUT : /shoppinglist/?item_id=3f14f57f-8192-4eee-932b-9f866b2d4506
+2024-02-21T19:12:59.698Z [info]: Incoming PUT : /shoppinglist/?item_id=3f14f57f-8192-4eee-932b-9f866b2d4506
+2024-02-21T19:14:05.628Z [info]: Incoming PUT : /shoppinglist/?item_id=3f14f57f-8192-4eee-932b-9f866b2d4506
+2024-02-21T19:14:19.329Z [info]: Incoming PUT : /shoppinglist/?item_id=059fc072-4d89-40e7-ae7f-be0276e88c26
+2024-02-21T19:14:57.520Z [info]: Incoming PUT : /shoppinglist/?item_id=059fc072-4d89-40e7-ae7f-be0276e88c26
+2024-02-21T19:17:35.269Z [info]: Incoming PUT : /shoppinglist/?item_id=059fc072-4d89-40e7-ae7f-be0276e88c26
+2024-02-21T19:18:12.788Z [info]: Incoming PUT : /shoppinglist/?item_id=059fc072-4d89-40e7-ae7f-be0276e88c26
+2024-02-21T19:18:23.040Z [info]: Incoming PUT : /shoppinglist/?item_id=059fc072-4d89-40e7-ae7f-be0276e88c26
+2024-02-21T19:18:32.753Z [info]: Incoming PUT : /shoppinglist?item_id=059fc072-4d89-40e7-ae7f-be0276e88c26
+2024-02-21T19:18:58.960Z [info]: Incoming PUT : /shoppinglist/?item_id=059fc072-4d89-40e7-ae7f-be0276e88c26
+2024-02-21T19:19:49.033Z [info]: Incoming PUT : /shoppinglist/?item_id=059fc072-4d89-40e7-ae7f-be0276e88c26
+2024-02-21T19:20:11.587Z [info]: Incoming PUT : /shoppinglist/?item_id=059fc072-4d89-40e7-ae7f-be0276e88c26
+2024-02-21T19:22:16.791Z [info]: Incoming PUT : /shoppinglist/?item_id=059fc072-4d89-40e7-ae7f-be0276e88c26
+2024-02-21T19:23:33.821Z [info]: Incoming PUT : /shoppinglist/?item_id=059fc072-4d89-40e7-ae7f-be0276e88c26
+2024-02-21T19:24:20.262Z [info]: Incoming PUT : /shoppinglist/?item_id=059fc072-4d89-40e7-ae7f-be0276e88c26
+2024-02-21T19:31:13.577Z [info]: Incoming PUT : /shoppinglist/?item_id=059fc072-4d89-40e7-ae7f-be0276e88c26
+2024-02-21T19:31:50.423Z [info]: Incoming DELETE : /shoppinglist/?item_id=059fc072-4d89-40e7-ae7f-be0276e88c26

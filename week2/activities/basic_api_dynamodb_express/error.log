@@ -1,0 +1,8 @@
+2024-02-21T17:46:18.370Z [error]: Uncaught Exception: TypeError: Cannot read properties of undefined (reading 'name')
+2024-02-21T17:46:55.732Z [error]: Uncaught Exception: TypeError: logger.error is not a function
+2024-02-21T17:49:17.995Z [error]: Uncaught Exception: TypeError: logger.error is not a function
+2024-02-21T17:51:07.738Z [error]: Requested resource not found
+2024-02-21T17:52:18.559Z [error]: Requested resource not found
+2024-02-21T17:53:18.019Z [error]: Uncaught Exception: TypeError: res.status is not a function
+2024-02-21T18:59:43.712Z [error]: Uncaught Exception: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+2024-02-21T19:23:33.823Z [error]: Uncaught Exception: TypeError: shoppingListDAO.togglePurchased is not a function
